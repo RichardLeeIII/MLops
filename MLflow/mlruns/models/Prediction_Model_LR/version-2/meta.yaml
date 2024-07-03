@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1720014291058
+current_stage: None
+description: ''
+last_updated_timestamp: 1720014291058
+name: Prediction_Model_LR
+run_id: 0f68f10cdceb4919bebadf502410a0a3
+run_link: ''
+source: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/572264926233920912/0f68f10cdceb4919bebadf502410a0a3/artifacts/LogisticRegression
+status: READY
+status_message: null
+storage_location: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/572264926233920912/0f68f10cdceb4919bebadf502410a0a3/artifacts/LogisticRegression
+user_id: null
+version: 2

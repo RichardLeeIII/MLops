@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/572264926233920912/29c7e72d48b740eab2f23d34bcb0bffd/artifacts
+end_time: 1720000623677
+entry_point_name: ''
+experiment_id: '572264926233920912'
+lifecycle_stage: active
+run_id: 29c7e72d48b740eab2f23d34bcb0bffd
+run_name: adventurous-jay-463
+run_uuid: 29c7e72d48b740eab2f23d34bcb0bffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720000618555
+status: 3
+tags: []
+user_id: WhiyongL

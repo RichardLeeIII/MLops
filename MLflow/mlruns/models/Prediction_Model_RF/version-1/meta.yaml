@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1720013710208
+current_stage: None
+description: ''
+last_updated_timestamp: 1720013710208
+name: Prediction_Model_RF
+run_id: b830bdeb5e484174af11eedec034a72a
+run_link: ''
+source: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/572264926233920912/b830bdeb5e484174af11eedec034a72a/artifacts/RandomForestClassifier
+status: READY
+status_message: null
+storage_location: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/572264926233920912/b830bdeb5e484174af11eedec034a72a/artifacts/RandomForestClassifier
+user_id: null
+version: 1

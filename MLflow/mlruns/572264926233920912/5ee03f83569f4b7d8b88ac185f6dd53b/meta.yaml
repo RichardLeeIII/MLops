@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/572264926233920912/5ee03f83569f4b7d8b88ac185f6dd53b/artifacts
+end_time: 1719994182667
+entry_point_name: ''
+experiment_id: '572264926233920912'
+lifecycle_stage: active
+run_id: 5ee03f83569f4b7d8b88ac185f6dd53b
+run_name: honorable-fowl-674
+run_uuid: 5ee03f83569f4b7d8b88ac185f6dd53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719994180146
+status: 3
+tags: []
+user_id: WhiyongL

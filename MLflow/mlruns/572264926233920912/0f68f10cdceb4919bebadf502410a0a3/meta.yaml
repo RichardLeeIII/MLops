@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/572264926233920912/0f68f10cdceb4919bebadf502410a0a3/artifacts
+end_time: 1719992722410
+entry_point_name: ''
+experiment_id: '572264926233920912'
+lifecycle_stage: active
+run_id: 0f68f10cdceb4919bebadf502410a0a3
+run_name: orderly-dolphin-161
+run_uuid: 0f68f10cdceb4919bebadf502410a0a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992719836
+status: 3
+tags: []
+user_id: WhiyongL

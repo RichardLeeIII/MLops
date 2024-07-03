@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/750286753846871313/ca7f683932194c1589f02afe5bdd09c5/artifacts
+end_time: 1719881269050
+entry_point_name: ''
+experiment_id: '750286753846871313'
+lifecycle_stage: active
+run_id: ca7f683932194c1589f02afe5bdd09c5
+run_name: hilarious-finch-816
+run_uuid: ca7f683932194c1589f02afe5bdd09c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719881265133
+status: 3
+tags: []
+user_id: WhiyongL

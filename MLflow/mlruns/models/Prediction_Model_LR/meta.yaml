@@ -1,0 +1,7 @@
+aliases:
+  production: '1'
+  staging: '2'
+creation_timestamp: 1720014171572
+description: ''
+last_updated_timestamp: 1720014310568
+name: Prediction_Model_LR

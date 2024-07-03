@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/572264926233920912/a9f66b9444334e13bb122da31960efbe/artifacts
+end_time: 1719992719821
+entry_point_name: ''
+experiment_id: '572264926233920912'
+lifecycle_stage: active
+run_id: a9f66b9444334e13bb122da31960efbe
+run_name: merciful-mare-8
+run_uuid: a9f66b9444334e13bb122da31960efbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992713821
+status: 3
+tags: []
+user_id: WhiyongL

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/572264926233920912/a824f60bfc774eb3a4ab9b50d1fe0676/artifacts
+end_time: 1720000626379
+entry_point_name: ''
+experiment_id: '572264926233920912'
+lifecycle_stage: active
+run_id: a824f60bfc774eb3a4ab9b50d1fe0676
+run_name: righteous-owl-917
+run_uuid: a824f60bfc774eb3a4ab9b50d1fe0676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720000623682
+status: 3
+tags: []
+user_id: WhiyongL

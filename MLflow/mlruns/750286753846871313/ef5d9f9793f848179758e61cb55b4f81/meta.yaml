@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/750286753846871313/ef5d9f9793f848179758e61cb55b4f81/artifacts
+end_time: 1719882027709
+entry_point_name: ''
+experiment_id: '750286753846871313'
+lifecycle_stage: active
+run_id: ef5d9f9793f848179758e61cb55b4f81
+run_name: marvelous-turtle-115
+run_uuid: ef5d9f9793f848179758e61cb55b4f81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719882024983
+status: 3
+tags: []
+user_id: WhiyongL

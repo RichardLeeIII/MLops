@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/830446530896685979/f09c599a3ff44c0891e1d08b6179dc84/artifacts
+deleted_time: 1719992648791
+end_time: 1719932556560
+entry_point_name: ''
+experiment_id: '830446530896685979'
+lifecycle_stage: deleted
+run_id: f09c599a3ff44c0891e1d08b6179dc84
+run_name: nosy-snake-148
+run_uuid: f09c599a3ff44c0891e1d08b6179dc84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719932554008
+status: 3
+tags: []
+user_id: WhiyongL

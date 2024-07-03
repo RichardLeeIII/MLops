@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/830446530896685979/576b3dce03244258a95cf31ce03f150c/artifacts
+deleted_time: 1719992648791
+end_time: 1719932551508
+entry_point_name: ''
+experiment_id: '830446530896685979'
+lifecycle_stage: deleted
+run_id: 576b3dce03244258a95cf31ce03f150c
+run_name: gifted-jay-615
+run_uuid: 576b3dce03244258a95cf31ce03f150c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719932545556
+status: 3
+tags: []
+user_id: WhiyongL

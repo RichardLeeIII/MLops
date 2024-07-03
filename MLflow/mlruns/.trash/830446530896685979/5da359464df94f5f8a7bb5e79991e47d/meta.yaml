@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/MLflow/mlruns/830446530896685979/5da359464df94f5f8a7bb5e79991e47d/artifacts
+deleted_time: 1719992648791
+end_time: 1719932559231
+entry_point_name: ''
+experiment_id: '830446530896685979'
+lifecycle_stage: deleted
+run_id: 5da359464df94f5f8a7bb5e79991e47d
+run_name: fun-grub-349
+run_uuid: 5da359464df94f5f8a7bb5e79991e47d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719932556566
+status: 3
+tags: []
+user_id: WhiyongL
