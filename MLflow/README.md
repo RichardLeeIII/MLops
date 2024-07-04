@@ -162,7 +162,7 @@ LogisticRegression/
 -port 5001
 `mlflow server --host 0.0.0.0 --port 5001 --backend-store-uri mysql://root:admin123@localhost/db_mlflow --default-artifact-root $PWD/mlruns`
 
-`mlflow server --host 127.0.0.1 --port 5001 --backend-store-uri mysql://root:sjssorj3@localhost/db_mlflow --default-artifact-root $PWD/mlruns`
+`mlflow server --host 127.0.0.1 --port 5001 --backend-store-uri mysql://root:PASSWORD@localhost/db_mlflow --default-artifact-root $PWD/mlruns`
 
 - port 5000
 `mlflow server --host 0.0.0.0 --port 5000 --backend-store-uri mysql://root:admin123@localhost/db_mlflow --default-artifact-root $PWD/mlruns`
