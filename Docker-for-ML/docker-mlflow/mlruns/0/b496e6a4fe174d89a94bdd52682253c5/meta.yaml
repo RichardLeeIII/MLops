@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/Docker-for-ML/docker-mlflow/mlruns/0/b496e6a4fe174d89a94bdd52682253c5/artifacts
+end_time: 1720100132486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b496e6a4fe174d89a94bdd52682253c5
+run_name: dapper-crane-805
+run_uuid: b496e6a4fe174d89a94bdd52682253c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720100131873
+status: 4
+tags: []
+user_id: WhiyongL

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/Docker-for-ML/docker-mlflow/mlruns/0/468c4f8ced084b4e872a0c5c6f57c7b2/artifacts
+end_time: 1720099655936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 468c4f8ced084b4e872a0c5c6f57c7b2
+run_name: sassy-stoat-629
+run_uuid: 468c4f8ced084b4e872a0c5c6f57c7b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720099655337
+status: 4
+tags: []
+user_id: WhiyongL

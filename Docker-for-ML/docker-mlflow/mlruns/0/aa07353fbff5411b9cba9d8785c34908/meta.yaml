@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/WhiyongL/Desktop/MLOPs%20practice/Docker-for-ML/docker-mlflow/mlruns/0/aa07353fbff5411b9cba9d8785c34908/artifacts
+end_time: 1720099553171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa07353fbff5411b9cba9d8785c34908
+run_name: suave-sloth-628
+run_uuid: aa07353fbff5411b9cba9d8785c34908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720099551605
+status: 4
+tags: []
+user_id: WhiyongL
